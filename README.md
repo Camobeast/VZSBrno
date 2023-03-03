@@ -2,7 +2,7 @@
 
 A complete overhaul of the VZSBrno website
 
-#Before:
+# Before:
 
 
-#After:
+# After:
